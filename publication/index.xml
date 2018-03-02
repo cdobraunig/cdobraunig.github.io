@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Christoph Dobraunig</title>
+    <link>https://cdobraunig.github.io/publication/</link>
+    <description>Recent content in Publications on Christoph Dobraunig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cdobraunig.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rasta: A cipher with low ANDdepth and few ANDs per bit</title>
+      <link>https://cdobraunig.github.io/publication/rasta/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/rasta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Ineffective Fault Inductions on Symmetric Cryptography</title>
+      <link>https://cdobraunig.github.io/publication/sifa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/sifa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Side-Channel Analysis of Keymill</title>
+      <link>https://cdobraunig.github.io/publication/keymill/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/keymill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISAP - Towards Side-Channel Secure Authenticated Encryption</title>
+      <link>https://cdobraunig.github.io/publication/isap/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/isap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impossible-Differential and Boomerang Cryptanalysis of Round-Reduced Kiasu-BC</title>
+      <link>https://cdobraunig.github.io/publication/kiasu_2/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/kiasu_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ascon hardware implementations and side-channel evaluation</title>
+      <link>https://cdobraunig.github.io/publication/ascon_hw/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/ascon_hw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Key-Recovery Attack on MANTIS 5</title>
+      <link>https://cdobraunig.github.io/publication/mantis/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/mantis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Fault Attacks on Nonce-Based Authenticated Encryption Schemes</title>
+      <link>https://cdobraunig.github.io/publication/sfa/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/sfa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptanalysis of Simpira v1</title>
+      <link>https://cdobraunig.github.io/publication/simpira/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/simpira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Square Attack on 7-Round Kiasu-BC</title>
+      <link>https://cdobraunig.github.io/publication/kiasu_1/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/kiasu_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of the Kupyna-256 Hash Function</title>
+      <link>https://cdobraunig.github.io/publication/kupyna/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/kupyna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of SHA-512/224 and SHA-512/256</title>
+      <link>https://cdobraunig.github.io/publication/sha2_paper/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/sha2_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristic Tool for Linear Cryptanalysis with Applications to CAESAR Candidates</title>
+      <link>https://cdobraunig.github.io/publication/lin/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Higher-Order Cryptanalysis of LowMC</title>
+      <link>https://cdobraunig.github.io/publication/lowmc/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/lowmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Fresh and Hybrid Re-Keying Schemes with Beyond Birthday Security</title>
+      <link>https://cdobraunig.github.io/publication/rekeying_2/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/rekeying_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forgery Attacks on Round-Reduced ICEPOLE-128</title>
+      <link>https://cdobraunig.github.io/publication/icepole/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/icepole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suit up! - Made-to-Measure Hardware Implementations of ASCON</title>
+      <link>https://cdobraunig.github.io/publication/suit_up/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/suit_up/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptanalysis of Ascon</title>
+      <link>https://cdobraunig.github.io/publication/analysis_ascon/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/analysis_ascon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Related-Key Forgeries for Prøst-OTR</title>
+      <link>https://cdobraunig.github.io/publication/prost/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/prost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Evaluation of SHA-224, SHA-512/224, and SHA-512/256</title>
+      <link>https://cdobraunig.github.io/publication/sha2_report/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/sha2_report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Security of Fresh Re-keying to Counteract Side-Channel and Fault Attacks</title>
+      <link>https://cdobraunig.github.io/publication/rekey_1/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/rekey_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key Recovery Attacks on Recent Authenticated Ciphers</title>
+      <link>https://cdobraunig.github.io/publication/latin/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/latin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential Cryptanalysis of SipHash</title>
+      <link>https://cdobraunig.github.io/publication/siphash/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/siphash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ascon</title>
+      <link>https://cdobraunig.github.io/publication/ascon/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/ascon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact Hardware Implementations of the Block Ciphers mCrypton, NOEKEON, and SEA</title>
+      <link>https://cdobraunig.github.io/publication/first/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://cdobraunig.github.io/publication/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
