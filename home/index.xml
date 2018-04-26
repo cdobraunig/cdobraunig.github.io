@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Christoph Dobraunig</title>
-    <link>https://cdobraunig.github.io/home/</link>
+    <link>http://dobraunig.com/home/</link>
     <description>Recent content in Homes on Christoph Dobraunig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://cdobraunig.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dobraunig.com/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://cdobraunig.github.io/home/about/</link>
+      <link>http://dobraunig.com/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://cdobraunig.github.io/home/about/</guid>
+      <guid>http://dobraunig.com/home/about/</guid>
       <description>About Me Currently, I am employed as a postdoctoral researcher at the IAIK, Graz University of Technology. So far, I have done research in cryptography (analysis and design of symmetric primitives) and implementation security (side-channel and fault attacks). However, my interests are not limited to these topics. I am a co-designer of the authenticated encryption scheme Ascon, the authenticated encryption scheme Isap, and the stream cipher Rasta.</description>
     </item>
     
     <item>
       <title>Journal Articles</title>
-      <link>https://cdobraunig.github.io/home/journal_publications/</link>
+      <link>http://dobraunig.com/home/journal_publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://cdobraunig.github.io/home/journal_publications/</guid>
+      <guid>http://dobraunig.com/home/journal_publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conference &amp; Workshop Papers</title>
-      <link>https://cdobraunig.github.io/home/conference_publications/</link>
+      <link>http://dobraunig.com/home/conference_publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://cdobraunig.github.io/home/conference_publications/</guid>
+      <guid>http://dobraunig.com/home/conference_publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Other Publications</title>
-      <link>https://cdobraunig.github.io/home/misc/</link>
+      <link>http://dobraunig.com/home/misc/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://cdobraunig.github.io/home/misc/</guid>
+      <guid>http://dobraunig.com/home/misc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Service</title>
-      <link>https://cdobraunig.github.io/home/review/</link>
+      <link>http://dobraunig.com/home/review/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://cdobraunig.github.io/home/review/</guid>
+      <guid>http://dobraunig.com/home/review/</guid>
       <description>Program Committee  2019: FSE  External Reviewer  2018: ACNS, COSADE, EUROCRYPT 2017: ASIACRYPT, EUROCRYPT, Inscrypt, SAC 2016: ACNS, ASIACRYPT, CRYPTO, FSE, ICISC, ICISSP, IndoCrypt, Inscrypt 2015: CHES, FSE, ICISC, IndoCrypt, Inscrypt, SAC 2014: ASIACRYPT, CHES, ICISC, INSCRYPT  Journal Reviewer IEEE Transactions on Information Forensics &amp;amp; Security, IET Information Security, Journal of Cryptographic Engineering, Journal of Cryptology</description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>https://cdobraunig.github.io/home/talks/</link>
+      <link>http://dobraunig.com/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://cdobraunig.github.io/home/talks/</guid>
+      <guid>http://dobraunig.com/home/talks/</guid>
       <description>Jan. 2018, Dagstuhl Seminar, “Rasta: Designing a cipher with low ANDdepth and few ANDs per bit”, Dagstuhl, Germany, joint work with: M. Eichlseder, L. Grassi, V. Lallemand, G. Leander, F. Mendel, and C. Rechberger. Apr. 2017, COSADE, “Side-Channel Analysis of Keymill”, Paris, France, joint work with: M. Eichlseder, T. Korak, and F. Mendel. Mar. 2017, COST, “ISAP: Towards Side-channel Secure AE”, Amsterdam, Netherlands, joint work with: M. Eichlseder, S. Mangard, F.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://cdobraunig.github.io/home/contact/</link>
+      <link>http://dobraunig.com/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://cdobraunig.github.io/home/contact/</guid>
+      <guid>http://dobraunig.com/home/contact/</guid>
       <description></description>
     </item>
     
