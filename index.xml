@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christoph Dobraunig on Christoph Dobraunig</title>
-    <link>http://www.dobraunig.com/</link>
+    <link>https://www.dobraunig.com/</link>
     <description>Recent content in Christoph Dobraunig on Christoph Dobraunig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,136 +12,136 @@
     
     <item>
       <title>Statistical Ineffective Fault Attacks on Masked AES with Fault Countermeasures</title>
-      <link>http://www.dobraunig.com/publication/sifa_2/</link>
+      <link>https://www.dobraunig.com/publication/sifa_2/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://www.dobraunig.com/publication/sifa_2/</guid>
+      <guid>https://www.dobraunig.com/publication/sifa_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rasta: A cipher with low ANDdepth and few ANDs per bit</title>
-      <link>http://www.dobraunig.com/publication/rasta/</link>
+      <link>https://www.dobraunig.com/publication/rasta/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
       
-      <guid>http://www.dobraunig.com/publication/rasta/</guid>
+      <guid>https://www.dobraunig.com/publication/rasta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploiting Ineffective Fault Inductions on Symmetric Cryptography</title>
-      <link>http://www.dobraunig.com/publication/sifa/</link>
+      <link>https://www.dobraunig.com/publication/sifa/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>http://www.dobraunig.com/publication/sifa/</guid>
+      <guid>https://www.dobraunig.com/publication/sifa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Side-Channel Analysis of Keymill</title>
-      <link>http://www.dobraunig.com/publication/keymill/</link>
+      <link>https://www.dobraunig.com/publication/keymill/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
       
-      <guid>http://www.dobraunig.com/publication/keymill/</guid>
+      <guid>https://www.dobraunig.com/publication/keymill/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ISAP - Towards Side-Channel Secure Authenticated Encryption</title>
-      <link>http://www.dobraunig.com/publication/isap/</link>
+      <link>https://www.dobraunig.com/publication/isap/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
       
-      <guid>http://www.dobraunig.com/publication/isap/</guid>
+      <guid>https://www.dobraunig.com/publication/isap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impossible-Differential and Boomerang Cryptanalysis of Round-Reduced Kiasu-BC</title>
-      <link>http://www.dobraunig.com/publication/kiasu_2/</link>
+      <link>https://www.dobraunig.com/publication/kiasu_2/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
       
-      <guid>http://www.dobraunig.com/publication/kiasu_2/</guid>
+      <guid>https://www.dobraunig.com/publication/kiasu_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ascon hardware implementations and side-channel evaluation</title>
-      <link>http://www.dobraunig.com/publication/ascon_hw/</link>
+      <link>https://www.dobraunig.com/publication/ascon_hw/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>http://www.dobraunig.com/publication/ascon_hw/</guid>
+      <guid>https://www.dobraunig.com/publication/ascon_hw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical Key-Recovery Attack on MANTIS 5</title>
-      <link>http://www.dobraunig.com/publication/mantis/</link>
+      <link>https://www.dobraunig.com/publication/mantis/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
       
-      <guid>http://www.dobraunig.com/publication/mantis/</guid>
+      <guid>https://www.dobraunig.com/publication/mantis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Fault Attacks on Nonce-Based Authenticated Encryption Schemes</title>
-      <link>http://www.dobraunig.com/publication/sfa/</link>
+      <link>https://www.dobraunig.com/publication/sfa/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
       
-      <guid>http://www.dobraunig.com/publication/sfa/</guid>
+      <guid>https://www.dobraunig.com/publication/sfa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cryptanalysis of Simpira v1</title>
-      <link>http://www.dobraunig.com/publication/simpira/</link>
+      <link>https://www.dobraunig.com/publication/simpira/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
       
-      <guid>http://www.dobraunig.com/publication/simpira/</guid>
+      <guid>https://www.dobraunig.com/publication/simpira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Square Attack on 7-Round Kiasu-BC</title>
-      <link>http://www.dobraunig.com/publication/kiasu_1/</link>
+      <link>https://www.dobraunig.com/publication/kiasu_1/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
       
-      <guid>http://www.dobraunig.com/publication/kiasu_1/</guid>
+      <guid>https://www.dobraunig.com/publication/kiasu_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of the Kupyna-256 Hash Function</title>
-      <link>http://www.dobraunig.com/publication/kupyna/</link>
+      <link>https://www.dobraunig.com/publication/kupyna/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0100</pubDate>
       
-      <guid>http://www.dobraunig.com/publication/kupyna/</guid>
+      <guid>https://www.dobraunig.com/publication/kupyna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of SHA-512/224 and SHA-512/256</title>
-      <link>http://www.dobraunig.com/publication/sha2_paper/</link>
+      <link>https://www.dobraunig.com/publication/sha2_paper/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0100</pubDate>
       
-      <guid>http://www.dobraunig.com/publication/sha2_paper/</guid>
+      <guid>https://www.dobraunig.com/publication/sha2_paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heuristic Tool for Linear Cryptanalysis with Applications to CAESAR Candidates</title>
-      <link>http://www.dobraunig.com/publication/lin/</link>
+      <link>https://www.dobraunig.com/publication/lin/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0100</pubDate>
       
-      <guid>http://www.dobraunig.com/publication/lin/</guid>
+      <guid>https://www.dobraunig.com/publication/lin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Higher-Order Cryptanalysis of LowMC</title>
-      <link>http://www.dobraunig.com/publication/lowmc/</link>
+      <link>https://www.dobraunig.com/publication/lowmc/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
       
-      <guid>http://www.dobraunig.com/publication/lowmc/</guid>
+      <guid>https://www.dobraunig.com/publication/lowmc/</guid>
       <description></description>
     </item>
     
