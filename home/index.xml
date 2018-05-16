@@ -18,7 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.dobraunig.com/home/about/</guid>
-      <description>About Me Currently, I am employed as a postdoctoral researcher at the IAIK, Graz University of Technology. So far, I have done research in cryptography (analysis and design of symmetric primitives) and implementation security (side-channel and fault attacks). However, my interests are not limited to these topics. I am a co-designer of the authenticated encryption scheme Ascon, the authenticated encryption scheme Isap, and the stream cipher Rasta.</description>
+      <description>About Me Currently, I am employed as a postdoctoral researcher at the IAIK, Graz University of Technology. So far, I have done research in cryptography (analysis and design of symmetric primitives) and implementation security (side-channel and fault attacks). However, my interests are not limited to these topics. I am a co-designer of the authenticated encryption scheme Ascon, the authenticated encryption scheme Isap, and the stream cipher Rasta. Moreover, I am part of the SPHINCS+ Team.</description>
     </item>
     
     <item>
