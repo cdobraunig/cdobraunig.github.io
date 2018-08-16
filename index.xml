@@ -11,20 +11,20 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Rasta: A cipher with low ANDdepth and few ANDs per bit</title>
+      <link>https://www.dobraunig.com/publication/rasta/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.dobraunig.com/publication/rasta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Statistical Ineffective Fault Attacks on Masked AES with Fault Countermeasures</title>
       <link>https://www.dobraunig.com/publication/sifa_2/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
       
       <guid>https://www.dobraunig.com/publication/sifa_2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rasta: A cipher with low ANDdepth and few ANDs per bit</title>
-      <link>https://www.dobraunig.com/publication/rasta/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://www.dobraunig.com/publication/rasta/</guid>
       <description></description>
     </item>
     
