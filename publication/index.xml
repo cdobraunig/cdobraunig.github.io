@@ -13,11 +13,29 @@
     
     
     <item>
+      <title>Algebraic Cryptanalysis of Frit</title>
+      <link>https://www.dobraunig.com/publication/frit/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.dobraunig.com/publication/frit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SIFA: Exploiting Ineffective Fault Inductions on Symmetric Cryptography</title>
       <link>https://www.dobraunig.com/publication/sifa/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
       
       <guid>https://www.dobraunig.com/publication/sifa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault Attacks on Nonce-based Authenticated Encryption: Application to Keyak and Ketje</title>
+      <link>https://www.dobraunig.com/publication/sifa_sponge/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.dobraunig.com/publication/sifa_sponge/</guid>
       <description></description>
     </item>
     
