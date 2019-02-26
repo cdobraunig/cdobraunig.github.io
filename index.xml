@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Zero-Correlation Attacks on Tweakable Block Ciphers with Linear Tweakey Expansion</title>
+      <link>https://www.dobraunig.com/publication/tbczero/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.dobraunig.com/publication/tbczero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Statistical Ineffective Fault Attacks on Masked AES with Fault Countermeasures</title>
       <link>https://www.dobraunig.com/publication/sifa_2/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
       
       <guid>https://www.dobraunig.com/publication/kiasu_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analysis of the Kupyna-256 Hash Function</title>
-      <link>https://www.dobraunig.com/publication/kupyna/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://www.dobraunig.com/publication/kupyna/</guid>
       <description></description>
     </item>
     
