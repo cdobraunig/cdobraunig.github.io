@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Algebraic Cryptanalysis of Frit</title>
+      <link>https://www.dobraunig.com/publication/leak_dup/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.dobraunig.com/publication/leak_dup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Zero-Correlation Attacks on Tweakable Block Ciphers with Linear Tweakey Expansion</title>
       <link>https://www.dobraunig.com/publication/tbczero/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
       
       <guid>https://www.dobraunig.com/publication/simpira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Square Attack on 7-Round Kiasu-BC</title>
-      <link>https://www.dobraunig.com/publication/kiasu_1/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://www.dobraunig.com/publication/kiasu_1/</guid>
       <description></description>
     </item>
     
