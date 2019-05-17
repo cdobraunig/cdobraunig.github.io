@@ -13,7 +13,34 @@
     
     
     <item>
-      <title>Algebraic Cryptanalysis of Frit</title>
+      <title>Ascon</title>
+      <link>https://www.dobraunig.com/publication/ascon_nist/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.dobraunig.com/publication/ascon_nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elephant</title>
+      <link>https://www.dobraunig.com/publication/elephant_nist/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.dobraunig.com/publication/elephant_nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISAP</title>
+      <link>https://www.dobraunig.com/publication/isap_nist/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.dobraunig.com/publication/isap_nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leakage Resilience of the Duplex Construction</title>
       <link>https://www.dobraunig.com/publication/leak_dup/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
       
