@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Efficient Collision Attack Frameworks for RIPEMD-160</title>
+      <link>https://www.dobraunig.com/publication/ripemd_1/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.dobraunig.com/publication/ripemd_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protecting against Statistical Ineffective Fault Attacks</title>
+      <link>https://www.dobraunig.com/publication/cosifa/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.dobraunig.com/publication/cosifa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ascon</title>
       <link>https://www.dobraunig.com/publication/ascon_nist/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
       
       <guid>https://www.dobraunig.com/publication/isap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Impossible-Differential and Boomerang Cryptanalysis of Round-Reduced Kiasu-BC</title>
-      <link>https://www.dobraunig.com/publication/kiasu_2/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://www.dobraunig.com/publication/kiasu_2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ascon hardware implementations and side-channel evaluation</title>
-      <link>https://www.dobraunig.com/publication/ascon_hw/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://www.dobraunig.com/publication/ascon_hw/</guid>
       <description></description>
     </item>
     
