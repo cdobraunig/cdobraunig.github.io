@@ -13,20 +13,65 @@
     
     
     <item>
-      <title>Efficient Collision Attack Frameworks for RIPEMD-160</title>
-      <link>https://www.dobraunig.com/publication/ripemd_1/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
+      <title>Leakage Resilience of the Duplex Construction</title>
+      <link>https://www.dobraunig.com/publication/leak_dup/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://www.dobraunig.com/publication/ripemd_1/</guid>
+      <guid>https://www.dobraunig.com/publication/leak_dup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ascon</title>
+      <link>https://www.dobraunig.com/publication/ascon_nist/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.dobraunig.com/publication/ascon_nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elephant</title>
+      <link>https://www.dobraunig.com/publication/elephant_nist/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.dobraunig.com/publication/elephant_nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISAP</title>
+      <link>https://www.dobraunig.com/publication/isap_nist/</link>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.dobraunig.com/publication/isap_nist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New Semi-Free-Start Collision Attack Framework for Reduced RIPEMD-160</title>
       <link>https://www.dobraunig.com/publication/ripemd_2/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
       
       <guid>https://www.dobraunig.com/publication/ripemd_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algebraic Cryptanalysis of Variants of Frit</title>
+      <link>https://www.dobraunig.com/publication/frit/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.dobraunig.com/publication/frit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Collision Attack Frameworks for RIPEMD-160</title>
+      <link>https://www.dobraunig.com/publication/ripemd_1/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.dobraunig.com/publication/ripemd_1/</guid>
       <description></description>
     </item>
     
@@ -49,38 +94,11 @@
     </item>
     
     <item>
-      <title>Ascon</title>
-      <link>https://www.dobraunig.com/publication/ascon_nist/</link>
+      <title>SPHINCS&#43;</title>
+      <link>https://www.dobraunig.com/publication/sphincs_nist/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://www.dobraunig.com/publication/ascon_nist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Elephant</title>
-      <link>https://www.dobraunig.com/publication/elephant_nist/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://www.dobraunig.com/publication/elephant_nist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ISAP</title>
-      <link>https://www.dobraunig.com/publication/isap_nist/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://www.dobraunig.com/publication/isap_nist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leakage Resilience of the Duplex Construction</title>
-      <link>https://www.dobraunig.com/publication/leak_dup/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://www.dobraunig.com/publication/leak_dup/</guid>
+      <guid>https://www.dobraunig.com/publication/sphincs_nist/</guid>
       <description></description>
     </item>
     
@@ -99,15 +117,6 @@
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>https://www.dobraunig.com/publication/sifa_2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Algebraic Cryptanalysis of Frit</title>
-      <link>https://www.dobraunig.com/publication/frit/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://www.dobraunig.com/publication/frit/</guid>
       <description></description>
     </item>
     
@@ -135,15 +144,6 @@
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
       
       <guid>https://www.dobraunig.com/publication/rasta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPHINCS&#43;</title>
-      <link>https://www.dobraunig.com/publication/sphincs_nist/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://www.dobraunig.com/publication/sphincs_nist/</guid>
       <description></description>
     </item>
     

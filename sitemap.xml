@@ -5,8 +5,35 @@
     
     <url>
     
-      <loc>https://www.dobraunig.com/publication/ripemd_1/</loc>
-      <lastmod>2019-08-01T00:00:00+02:00</lastmod>
+      <loc>https://www.dobraunig.com/publication/leak_dup/</loc>
+      <lastmod>2019-10-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://www.dobraunig.com/publication/ascon_nist/</loc>
+      <lastmod>2019-09-20T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://www.dobraunig.com/publication/elephant_nist/</loc>
+      <lastmod>2019-09-19T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://www.dobraunig.com/publication/isap_nist/</loc>
+      <lastmod>2019-09-18T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -15,7 +42,25 @@
     <url>
     
       <loc>https://www.dobraunig.com/publication/ripemd_2/</loc>
-      <lastmod>2019-06-05T00:00:00+02:00</lastmod>
+      <lastmod>2019-09-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://www.dobraunig.com/publication/frit/</loc>
+      <lastmod>2019-08-15T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://www.dobraunig.com/publication/ripemd_1/</loc>
+      <lastmod>2019-08-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -41,35 +86,8 @@
     
     <url>
     
-      <loc>https://www.dobraunig.com/publication/ascon_nist/</loc>
+      <loc>https://www.dobraunig.com/publication/sphincs_nist/</loc>
       <lastmod>2019-03-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/elephant_nist/</loc>
-      <lastmod>2019-03-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/isap_nist/</loc>
-      <lastmod>2019-03-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/leak_dup/</loc>
-      <lastmod>2019-02-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -88,15 +106,6 @@
     
       <loc>https://www.dobraunig.com/publication/sifa_2/</loc>
       <lastmod>2018-11-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/frit/</loc>
-      <lastmod>2018-09-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -124,15 +133,6 @@
     
       <loc>https://www.dobraunig.com/publication/rasta/</loc>
       <lastmod>2018-08-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/sphincs_nist/</loc>
-      <lastmod>2017-11-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -357,7 +357,7 @@
     <url>
     
       <loc>https://www.dobraunig.com/publication_types/0/</loc>
-      <lastmod>2019-06-05T00:00:00+02:00</lastmod>
+      <lastmod>2019-09-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -367,7 +367,7 @@
     <url>
     
       <loc>https://www.dobraunig.com/publication_types/1/</loc>
-      <lastmod>2019-08-01T00:00:00+02:00</lastmod>
+      <lastmod>2019-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -377,7 +377,7 @@
     <url>
     
       <loc>https://www.dobraunig.com/publication_types/2/</loc>
-      <lastmod>2019-02-01T00:00:00+01:00</lastmod>
+      <lastmod>2019-09-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -406,7 +406,7 @@
     <url>
     
       <loc>https://www.dobraunig.com/publication_types/</loc>
-      <lastmod>2019-06-05T00:00:00+02:00</lastmod>
+      <lastmod>2019-09-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

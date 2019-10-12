@@ -7,17 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright>
-    <lastBuildDate>Wed, 05 Jun 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://www.dobraunig.com/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>New Semi-Free-Start Collision Attack Framework for Reduced RIPEMD-160</title>
-      <link>https://www.dobraunig.com/publication/ripemd_2/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 +0200</pubDate>
+      <title>Ascon</title>
+      <link>https://www.dobraunig.com/publication/ascon_nist/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://www.dobraunig.com/publication/ripemd_2/</guid>
+      <guid>https://www.dobraunig.com/publication/ascon_nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elephant</title>
+      <link>https://www.dobraunig.com/publication/elephant_nist/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.dobraunig.com/publication/elephant_nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISAP</title>
+      <link>https://www.dobraunig.com/publication/isap_nist/</link>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.dobraunig.com/publication/isap_nist/</guid>
       <description></description>
     </item>
     
@@ -40,54 +58,9 @@
     </item>
     
     <item>
-      <title>Ascon</title>
-      <link>https://www.dobraunig.com/publication/ascon_nist/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://www.dobraunig.com/publication/ascon_nist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Elephant</title>
-      <link>https://www.dobraunig.com/publication/elephant_nist/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://www.dobraunig.com/publication/elephant_nist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ISAP</title>
-      <link>https://www.dobraunig.com/publication/isap_nist/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://www.dobraunig.com/publication/isap_nist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leakage Resilience of the Duplex Construction</title>
-      <link>https://www.dobraunig.com/publication/leak_dup/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://www.dobraunig.com/publication/leak_dup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Algebraic Cryptanalysis of Frit</title>
-      <link>https://www.dobraunig.com/publication/frit/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://www.dobraunig.com/publication/frit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SPHINCS&#43;</title>
       <link>https://www.dobraunig.com/publication/sphincs_nist/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>https://www.dobraunig.com/publication/sphincs_nist/</guid>
       <description></description>
