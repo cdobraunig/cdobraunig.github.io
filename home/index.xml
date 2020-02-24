@@ -18,7 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.dobraunig.com/home/about/</guid>
-      <description>About Me Currently, I am a Schrödinger Fellow working at the Radboud University in Nijmegen. Before that, I was employed as a postdoctoral researcher at the IAIK, Graz University of Technology. So far, I have done research in cryptography (analysis and design of symmetric primitives) and implementation security (side-channel and fault attacks). However, my interests are not limited to these topics. I am a co-designer of the authenticated encryption schemes Ascon, Elephant, and ISAP and the stream cipher Rasta.</description>
+      <description>About Me Currently, I am funded by a Schrödinger research fellowship, which is carried out at the Radboud University in Nijmegen and the Graz University of Technology. Before that, I was employed as a postdoctoral researcher at the IAIK, Graz University of Technology. So far, I have done research in cryptography (analysis and design of symmetric primitives) and implementation security (side-channel and fault attacks). However, my interests are not limited to these topics.</description>
     </item>
     
     <item>
@@ -54,7 +54,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.dobraunig.com/home/review/</guid>
-      <description>Program Committee  2020: FSE 2019: FSE  External Reviewer  2020: CHES 2019: AFRICACRYPT, ASIACRYPT, CHES, IndoCrypt 2018: ACNS, ASIACRYPT, COSADE, EUROCRYPT, Inscrypt, IWSEC 2017: ASIACRYPT, EUROCRYPT, Inscrypt, SAC 2016: ACNS, ASIACRYPT, CRYPTO, FSE, ICISC, ICISSP, IndoCrypt, Inscrypt 2015: CHES, FSE, ICISC, IndoCrypt, Inscrypt, SAC 2014: ASIACRYPT, CHES, ICISC, INSCRYPT  Journal Reviewer Designs, Codes and Cryptography; IEEE Transactions on Information Forensics &amp;amp; Security; IET Information Security; Journal of Cryptographic Engineering; Journal of Cryptology;</description>
+      <description>Program Committee  2020: EuroS&amp;amp;P, FSE 2019: FSE  External Reviewer  2020: ACNS, EUROCRYPT, CHES 2019: AFRICACRYPT, ASIACRYPT, CHES, IndoCrypt 2018: ACNS, ASIACRYPT, COSADE, EUROCRYPT, Inscrypt, IWSEC 2017: ASIACRYPT, EUROCRYPT, Inscrypt, SAC 2016: ACNS, ASIACRYPT, CRYPTO, FSE, ICISC, ICISSP, IndoCrypt, Inscrypt 2015: CHES, FSE, ICISC, IndoCrypt, Inscrypt, SAC 2014: ASIACRYPT, CHES, ICISC, INSCRYPT  Journal Reviewer Designs, Codes and Cryptography; IEEE Transactions on Information Forensics &amp;amp; Security; IEEE Transactions on Very Large Scale Integration Systems; IET Information Security; Journal of Cryptographic Engineering; Journal of Cryptology;</description>
     </item>
     
     <item>
