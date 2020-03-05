@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Schläffer | Christoph Dobraunig</title>
+    <link>https://www.dobraunig.com/authors/martin-schlaffer/</link>
+      <atom:link href="https://www.dobraunig.com/authors/martin-schlaffer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin Schläffer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.dobraunig.com/img/icon-192.png</url>
+      <title>Martin Schläffer</title>
+      <link>https://www.dobraunig.com/authors/martin-schlaffer/</link>
+    </image>
+    
+    <item>
+      <title>Ascon</title>
+      <link>https://www.dobraunig.com/publication/ascon_nist/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/ascon_nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptanalysis of Ascon</title>
+      <link>https://www.dobraunig.com/publication/analysis_ascon/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/analysis_ascon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key Recovery Attacks on Recent Authenticated Ciphers</title>
+      <link>https://www.dobraunig.com/publication/latin/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/latin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential Cryptanalysis of SipHash</title>
+      <link>https://www.dobraunig.com/publication/siphash/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/siphash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ascon</title>
+      <link>https://www.dobraunig.com/publication/ascon/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/ascon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

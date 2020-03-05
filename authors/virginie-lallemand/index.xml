@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virginie Lallemand | Christoph Dobraunig</title>
+    <link>https://www.dobraunig.com/authors/virginie-lallemand/</link>
+      <atom:link href="https://www.dobraunig.com/authors/virginie-lallemand/index.xml" rel="self" type="application/rss+xml" />
+    <description>Virginie Lallemand</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.dobraunig.com/img/icon-192.png</url>
+      <title>Virginie Lallemand</title>
+      <link>https://www.dobraunig.com/authors/virginie-lallemand/</link>
+    </image>
+    
+    <item>
+      <title>Rasta: A cipher with low ANDdepth and few ANDs per bit</title>
+      <link>https://www.dobraunig.com/publication/rasta/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/rasta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

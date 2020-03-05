@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bart Mennink | Christoph Dobraunig</title>
+    <link>https://www.dobraunig.com/authors/bart-mennink/</link>
+      <atom:link href="https://www.dobraunig.com/authors/bart-mennink/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bart Mennink</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.dobraunig.com/img/icon-192.png</url>
+      <title>Bart Mennink</title>
+      <link>https://www.dobraunig.com/authors/bart-mennink/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the Golden Mean Between Leakage and Fault Resilience and Practice</title>
+      <link>https://www.dobraunig.com/publication/practicallr/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/practicallr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Forgeries for ORANGE</title>
+      <link>https://www.dobraunig.com/publication/orange/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/orange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security of the Suffix Keyed Sponge</title>
+      <link>https://www.dobraunig.com/publication/suks/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/suks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leakage Resilience of the Duplex Construction</title>
+      <link>https://www.dobraunig.com/publication/leak_duplex/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/leak_duplex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elephant</title>
+      <link>https://www.dobraunig.com/publication/elephant_nist/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/elephant_nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISAP</title>
+      <link>https://www.dobraunig.com/publication/isap_nist/</link>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/isap_nist/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

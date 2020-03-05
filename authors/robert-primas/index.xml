@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Primas | Christoph Dobraunig</title>
+    <link>https://www.dobraunig.com/authors/robert-primas/</link>
+      <atom:link href="https://www.dobraunig.com/authors/robert-primas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert Primas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.dobraunig.com/img/icon-192.png</url>
+      <title>Robert Primas</title>
+      <link>https://www.dobraunig.com/authors/robert-primas/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the Golden Mean Between Leakage and Fault Resilience and Practice</title>
+      <link>https://www.dobraunig.com/publication/practicallr/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/practicallr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISAP</title>
+      <link>https://www.dobraunig.com/publication/isap_nist/</link>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/isap_nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protecting against Statistical Ineffective Fault Attacks</title>
+      <link>https://www.dobraunig.com/publication/cosifa/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/cosifa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Ineffective Fault Attacks on Masked AES with Fault Countermeasures</title>
+      <link>https://www.dobraunig.com/publication/sifa2/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/sifa2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIFA: Exploiting Ineffective Fault Inductions on Symmetric Cryptography</title>
+      <link>https://www.dobraunig.com/publication/sifa/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/sifa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault Attacks on Nonce-based Authenticated Encryption: Application to Keyak and Ketje</title>
+      <link>https://www.dobraunig.com/publication/sifa_sponge/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/sifa_sponge/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

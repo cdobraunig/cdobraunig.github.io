@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Plos | Christoph Dobraunig</title>
+    <link>https://www.dobraunig.com/authors/thomas-plos/</link>
+      <atom:link href="https://www.dobraunig.com/authors/thomas-plos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Plos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Sat, 01 Dec 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.dobraunig.com/img/icon-192.png</url>
+      <title>Thomas Plos</title>
+      <link>https://www.dobraunig.com/authors/thomas-plos/</link>
+    </image>
+    
+    <item>
+      <title>Compact Hardware Implementations of the Block Ciphers mCrypton, NOEKEON, and SEA</title>
+      <link>https://www.dobraunig.com/publication/first/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

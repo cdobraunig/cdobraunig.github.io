@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Panos Kampanakis | Christoph Dobraunig</title>
+    <link>https://www.dobraunig.com/authors/panos-kampanakis/</link>
+      <atom:link href="https://www.dobraunig.com/authors/panos-kampanakis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Panos Kampanakis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.dobraunig.com/img/icon-192.png</url>
+      <title>Panos Kampanakis</title>
+      <link>https://www.dobraunig.com/authors/panos-kampanakis/</link>
+    </image>
+    
+    <item>
+      <title>SPHINCS&#43;</title>
+      <link>https://www.dobraunig.com/publication/sphincs_nist/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/sphincs_nist/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
