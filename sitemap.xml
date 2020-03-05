@@ -1,460 +1,557 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication_types/0/</loc>
-      <lastmod>2020-02-15T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/publication_types/0/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/</loc>
-      <lastmod>2020-02-15T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/practicalr/</loc>
-      <lastmod>2020-02-15T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/bart-mennink/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication_types/</loc>
-      <lastmod>2020-02-15T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/christoph-dobraunig/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/orange/</loc>
-      <lastmod>2020-02-08T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication_types/2/</loc>
-      <lastmod>2020-02-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/publication/practicallr/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/pyja/</loc>
-      <lastmod>2020-02-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/publication_types/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/ripemd_0/</loc>
-      <lastmod>2020-01-28T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/publication/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/agrasta_attack/</loc>
-      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/robert-primas/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/suks/</loc>
-      <lastmod>2019-12-31T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/florian-mendel/</loc>
+    <lastmod>2020-02-08T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication_types/1/</loc>
-      <lastmod>2019-10-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/publication/orange/</loc>
+    <lastmod>2020-02-08T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/leak_dup/</loc>
-      <lastmod>2019-10-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/publication_types/2/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/ascon_nist/</loc>
-      <lastmod>2019-09-20T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/publication/pyja/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/elephant_nist/</loc>
-      <lastmod>2019-09-19T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/jan-schoone/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/isap_nist/</loc>
-      <lastmod>2019-09-18T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/yann-rotella/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/ripemd_2/</loc>
-      <lastmod>2019-09-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/binbin-cui/</loc>
+    <lastmod>2020-01-28T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/frit/</loc>
-      <lastmod>2019-08-15T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/fukang-liu/</loc>
+    <lastmod>2020-01-28T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/ripemd_1/</loc>
-      <lastmod>2019-08-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/gaoli-wang/</loc>
+    <lastmod>2020-01-28T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/cosifa/</loc>
-      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/publication/ripemd_0/</loc>
+    <lastmod>2020-01-28T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/sphincs_nist/</loc>
-      <lastmod>2019-03-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/christian-rechberger/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/tbczero/</loc>
-      <lastmod>2019-02-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/farokhlagha-moazami/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/sifa_2/</loc>
-      <lastmod>2018-11-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/publication/agrasta_attack/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/sifa/</loc>
-      <lastmod>2018-09-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/hadi-soleimany/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/sifa_sponge/</loc>
-      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/publication/suks/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/rasta/</loc>
-      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/publication_types/1/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/keymill/</loc>
-      <lastmod>2017-04-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/publication/leak_duplex/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/isap/</loc>
-      <lastmod>2017-03-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/publication/ascon_nist/</loc>
+    <lastmod>2019-09-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/kiasu_2/</loc>
-      <lastmod>2017-02-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/maria-eichlseder/</loc>
+    <lastmod>2019-09-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/martin-schlaffer/</loc>
+    <lastmod>2019-09-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/ascon_hw/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/publication/elephant_nist/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/mantis/</loc>
-      <lastmod>2016-12-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/tim-beyne/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/sfa/</loc>
-      <lastmod>2016-12-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/yu-long-chen/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/simpira/</loc>
-      <lastmod>2016-08-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/publication/isap_nist/</loc>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/kiasu_1/</loc>
-      <lastmod>2016-07-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/stefan-mangard/</loc>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/kupyna/</loc>
-      <lastmod>2016-03-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/thomas-unterluggauer/</loc>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/sha2_paper/</loc>
-      <lastmod>2015-12-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/publication/ripemd_2/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/lin/</loc>
-      <lastmod>2015-12-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/takanori-isobe/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/lowmc/</loc>
-      <lastmod>2015-11-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/zhenfu-cao/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/rekeying_2/</loc>
-      <lastmod>2015-11-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/publication/frit/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/icepole/</loc>
-      <lastmod>2015-08-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/markus-schofnegger/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/suit_up/</loc>
-      <lastmod>2015-08-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/publication/ripemd_1/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/analysis_ascon/</loc>
-      <lastmod>2015-04-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/hannes-gross/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/prost/</loc>
-      <lastmod>2015-03-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/joan-daemen/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/sha2_report/</loc>
-      <lastmod>2014-12-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/publication/cosifa/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/rekey_1/</loc>
-      <lastmod>2014-11-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/andreas-hulsing/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/latin/</loc>
-      <lastmod>2014-09-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/daniel-j.-bernstein/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/siphash/</loc>
-      <lastmod>2014-08-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/jean-philippe-aumasson/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/ascon/</loc>
-      <lastmod>2014-04-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/joost-rijneveld/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/publication/first/</loc>
-      <lastmod>2012-12-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/martin-m.-lauridsen/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/categories/</loc>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/panos-kampanakis/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://www.dobraunig.com/tags/</loc>
-    </url>
-    
+  <url>
+    <loc>https://www.dobraunig.com/authors/peter-schwabe/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/ruben-niederhagen/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/scott-fluhrer/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/sphincs_nist/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/stefan-kolbl/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/stefan-lukas-gazdag/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/tanja-lange/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/eran-lambooij/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/gregor-leander/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/jian-guo/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/ralph-ankele/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/yosuke-todo/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/tbczero/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/sifa2/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/sifa/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/thomas-korak/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/eik-list/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/sifa_sponge/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/lorenzo-grassi/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/rasta/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/virginie-lallemand/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/keymill/</loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/isapv1/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/kiasu_2/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/ascon_hw/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/christoph-ehrenhofer/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/erich-wenger/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/hannes-gro%C3%9F/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/daniel-kales/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/mantis/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/sfa/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/victor-lomne/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/simpira/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/kiasu_1/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/kupyna/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/sha2_paper/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/lin/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/francois-koeune/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/francois-xavier-standaert/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/lowmc/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/rekey_2/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/icepole/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/suit_up/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/analysis_ascon/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/prost/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/sha2_report/</loc>
+    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/rekey_1/</loc>
+    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/andrey-bogdanov/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/elmar-tischhauser/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/latin/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/siphash/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/ascon/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/alexander-oprisnik/</loc>
+    <lastmod>2012-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/christoph-wiesmeier/</loc>
+    <lastmod>2012-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/first/</loc>
+    <lastmod>2012-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/johannes-wiesmeier/</loc>
+    <lastmod>2012-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/markus-hofinger/</loc>
+    <lastmod>2012-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/thomas-plos/</loc>
+    <lastmod>2012-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/tags/</loc>
+  </url>
   
 </urlset>

@@ -1,31 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>0 on Christoph Dobraunig</title>
+    <title>0 | Christoph Dobraunig</title>
     <link>https://www.dobraunig.com/publication_types/0/</link>
-    <description>Recent content in 0 on Christoph Dobraunig</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright>
-    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://www.dobraunig.com/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.dobraunig.com/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.dobraunig.com/img/icon-192.png</url>
+      <title>0</title>
+      <link>https://www.dobraunig.com/publication_types/0/</link>
+    </image>
     
     <item>
       <title>Exploring the Golden Mean Between Leakage and Fault Resilience and Practice</title>
-      <link>https://www.dobraunig.com/publication/practicalr/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://www.dobraunig.com/publication/practicalr/</guid>
+      <link>https://www.dobraunig.com/publication/practicallr/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/practicallr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical Forgeries for ORANGE</title>
       <link>https://www.dobraunig.com/publication/orange/</link>
-      <pubDate>Sat, 08 Feb 2020 00:00:00 +0100</pubDate>
-      
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/publication/orange/</guid>
       <description></description>
     </item>
@@ -33,8 +31,7 @@
     <item>
       <title>Ascon</title>
       <link>https://www.dobraunig.com/publication/ascon_nist/</link>
-      <pubDate>Fri, 20 Sep 2019 00:00:00 +0200</pubDate>
-      
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/publication/ascon_nist/</guid>
       <description></description>
     </item>
@@ -42,8 +39,7 @@
     <item>
       <title>Elephant</title>
       <link>https://www.dobraunig.com/publication/elephant_nist/</link>
-      <pubDate>Thu, 19 Sep 2019 00:00:00 +0200</pubDate>
-      
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/publication/elephant_nist/</guid>
       <description></description>
     </item>
@@ -51,8 +47,7 @@
     <item>
       <title>ISAP</title>
       <link>https://www.dobraunig.com/publication/isap_nist/</link>
-      <pubDate>Wed, 18 Sep 2019 00:00:00 +0200</pubDate>
-      
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/publication/isap_nist/</guid>
       <description></description>
     </item>
@@ -60,8 +55,7 @@
     <item>
       <title>Protecting against Statistical Ineffective Fault Attacks</title>
       <link>https://www.dobraunig.com/publication/cosifa/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
-      
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/publication/cosifa/</guid>
       <description></description>
     </item>
@@ -69,8 +63,7 @@
     <item>
       <title>SPHINCS&#43;</title>
       <link>https://www.dobraunig.com/publication/sphincs_nist/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
-      
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/publication/sphincs_nist/</guid>
       <description></description>
     </item>
@@ -78,8 +71,7 @@
     <item>
       <title>Security Evaluation of SHA-224, SHA-512/224, and SHA-512/256</title>
       <link>https://www.dobraunig.com/publication/sha2_report/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0100</pubDate>
-      
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/publication/sha2_report/</guid>
       <description></description>
     </item>
@@ -87,8 +79,7 @@
     <item>
       <title>Ascon</title>
       <link>https://www.dobraunig.com/publication/ascon/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0200</pubDate>
-      
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/publication/ascon/</guid>
       <description></description>
     </item>
