@@ -5,7 +5,7 @@
     <link>https://www.dobraunig.com/authors/</link>
       <atom:link href="https://www.dobraunig.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,41 +13,57 @@
     </image>
     
     <item>
-      <title>Bart Mennink</title>
-      <link>https://www.dobraunig.com/authors/bart-mennink/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/authors/bart-mennink/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Christoph Dobraunig</title>
       <link>https://www.dobraunig.com/authors/christoph-dobraunig/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/authors/christoph-dobraunig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robert Primas</title>
-      <link>https://www.dobraunig.com/authors/robert-primas/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/authors/robert-primas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Florian Mendel</title>
       <link>https://www.dobraunig.com/authors/florian-mendel/</link>
-      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/authors/florian-mendel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hannes Gross</title>
+      <link>https://www.dobraunig.com/authors/hannes-gross/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/authors/hannes-gross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joan Daemen</title>
+      <link>https://www.dobraunig.com/authors/joan-daemen/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/authors/joan-daemen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Eichlseder</title>
+      <link>https://www.dobraunig.com/authors/maria-eichlseder/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/authors/maria-eichlseder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Primas</title>
+      <link>https://www.dobraunig.com/authors/robert-primas/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/authors/robert-primas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jan Schoone</title>
       <link>https://www.dobraunig.com/authors/jan-schoone/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/authors/jan-schoone/</guid>
       <description></description>
     </item>
@@ -55,8 +71,48 @@
     <item>
       <title>Yann Rotella</title>
       <link>https://www.dobraunig.com/authors/yann-rotella/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/authors/yann-rotella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bart Mennink</title>
+      <link>https://www.dobraunig.com/authors/bart-mennink/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/authors/bart-mennink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Mangard</title>
+      <link>https://www.dobraunig.com/authors/stefan-mangard/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/authors/stefan-mangard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Unterluggauer</title>
+      <link>https://www.dobraunig.com/authors/thomas-unterluggauer/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/authors/thomas-unterluggauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Beyne</title>
+      <link>https://www.dobraunig.com/authors/tim-beyne/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/authors/tim-beyne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yu Long Chen</title>
+      <link>https://www.dobraunig.com/authors/yu-long-chen/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/authors/yu-long-chen/</guid>
       <description></description>
     </item>
     
@@ -109,50 +165,10 @@
     </item>
     
     <item>
-      <title>Maria Eichlseder</title>
-      <link>https://www.dobraunig.com/authors/maria-eichlseder/</link>
-      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/authors/maria-eichlseder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Martin Schläffer</title>
       <link>https://www.dobraunig.com/authors/martin-schlaffer/</link>
       <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/authors/martin-schlaffer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tim Beyne</title>
-      <link>https://www.dobraunig.com/authors/tim-beyne/</link>
-      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/authors/tim-beyne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yu Long Chen</title>
-      <link>https://www.dobraunig.com/authors/yu-long-chen/</link>
-      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/authors/yu-long-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stefan Mangard</title>
-      <link>https://www.dobraunig.com/authors/stefan-mangard/</link>
-      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/authors/stefan-mangard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thomas Unterluggauer</title>
-      <link>https://www.dobraunig.com/authors/thomas-unterluggauer/</link>
-      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/authors/thomas-unterluggauer/</guid>
       <description></description>
     </item>
     
@@ -177,22 +193,6 @@
       <link>https://www.dobraunig.com/authors/markus-schofnegger/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/authors/markus-schofnegger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hannes Gross</title>
-      <link>https://www.dobraunig.com/authors/hannes-gross/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/authors/hannes-gross/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joan Daemen</title>
-      <link>https://www.dobraunig.com/authors/joan-daemen/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/authors/joan-daemen/</guid>
       <description></description>
     </item>
     

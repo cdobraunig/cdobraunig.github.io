@@ -3,78 +3,128 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.dobraunig.com/publication_types/0/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <loc>https://www.dobraunig.com/publication_types/2/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/bart-mennink/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/christoph-dobraunig/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/christoph-dobraunig/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/florian-mendel/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/hannes-gross/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/joan-daemen/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/maria-eichlseder/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/cosifa/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication_types/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/robert-primas/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/pyja/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/jan-schoone/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/yann-rotella/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/bart-mennink/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/isap_tosc/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/stefan-mangard/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/thomas-unterluggauer/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/elephant_tosc/</loc>
+    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/tim-beyne/</loc>
+    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/yu-long-chen/</loc>
+    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/orange/</loc>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication_types/0/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/publication/practicallr/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/publication_types/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/publication/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/robert-primas/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/florian-mendel/</loc>
-    <lastmod>2020-02-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/publication/orange/</loc>
-    <lastmod>2020-02-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/publication_types/2/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/publication/pyja/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/jan-schoone/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/yann-rotella/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -138,11 +188,6 @@
   </url>
   
   <url>
-    <loc>https://www.dobraunig.com/authors/maria-eichlseder/</loc>
-    <lastmod>2019-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.dobraunig.com/authors/martin-schlaffer/</loc>
     <lastmod>2019-09-20T00:00:00+00:00</lastmod>
   </url>
@@ -153,27 +198,7 @@
   </url>
   
   <url>
-    <loc>https://www.dobraunig.com/authors/tim-beyne/</loc>
-    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/yu-long-chen/</loc>
-    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.dobraunig.com/publication/isap_nist/</loc>
-    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/stefan-mangard/</loc>
-    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/thomas-unterluggauer/</loc>
     <lastmod>2019-09-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -205,21 +230,6 @@
   <url>
     <loc>https://www.dobraunig.com/publication/ripemd_1/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/hannes-gross/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/joan-daemen/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/publication/cosifa/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

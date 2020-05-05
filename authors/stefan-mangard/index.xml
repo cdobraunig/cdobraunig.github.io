@@ -5,12 +5,20 @@
     <link>https://www.dobraunig.com/authors/stefan-mangard/</link>
       <atom:link href="https://www.dobraunig.com/authors/stefan-mangard/index.xml" rel="self" type="application/rss+xml" />
     <description>Stefan Mangard</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Wed, 18 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
       <title>Stefan Mangard</title>
       <link>https://www.dobraunig.com/authors/stefan-mangard/</link>
     </image>
+    
+    <item>
+      <title>ISAP v2.0</title>
+      <link>https://www.dobraunig.com/publication/isap_tosc/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/isap_tosc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ISAP</title>

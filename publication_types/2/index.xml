@@ -5,7 +5,7 @@
     <link>https://www.dobraunig.com/publication_types/2/</link>
       <atom:link href="https://www.dobraunig.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
       <title>2</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>Protecting against Statistical Ineffective Fault Attacks</title>
+      <link>https://www.dobraunig.com/publication/cosifa/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/cosifa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Algebraic and Higher-Order Differential Cryptanalysis of Pyjamask-96</title>
       <link>https://www.dobraunig.com/publication/pyja/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/publication/pyja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISAP v2.0</title>
+      <link>https://www.dobraunig.com/publication/isap_tosc/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/isap_tosc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dumbo, Jumbo, and Delirium: Parallel Authenticated Encryption for the Lightweight Circus</title>
+      <link>https://www.dobraunig.com/publication/elephant_tosc/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/elephant_tosc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Forgeries for ORANGE</title>
+      <link>https://www.dobraunig.com/publication/orange/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/orange/</guid>
       <description></description>
     </item>
     
