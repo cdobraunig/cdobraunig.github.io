@@ -5,7 +5,7 @@
     <link>https://www.dobraunig.com/authors/</link>
       <atom:link href="https://www.dobraunig.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Bart Mennink</title>
+      <link>https://www.dobraunig.com/authors/bart-mennink/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/authors/bart-mennink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Christoph Dobraunig</title>
       <link>https://www.dobraunig.com/authors/christoph-dobraunig/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/authors/christoph-dobraunig/</guid>
       <description></description>
     </item>
@@ -73,14 +81,6 @@
       <link>https://www.dobraunig.com/authors/yann-rotella/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/authors/yann-rotella/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bart Mennink</title>
-      <link>https://www.dobraunig.com/authors/bart-mennink/</link>
-      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/authors/bart-mennink/</guid>
       <description></description>
     </item>
     
@@ -481,7 +481,7 @@
       <link>https://www.dobraunig.com/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/authors/admin/</guid>
-      <description>&lt;p&gt;Currently, I am funded by a &lt;a href=&#34;https://list.fwf.ac.at/en/research-in-practice/in-the-spotlight-schroedinger/list-of-schroedinger-fellows/2018/303141&#34; target=&#34;_blank&#34;&gt;Schrödinger research fellowship&lt;/a&gt;, which is carried out at the Radboud University in Nijmegen and the Graz University of Technology. Before that, I was employed as a postdoctoral researcher at the IAIK, Graz University of Technology. So far, I have done research in cryptography (analysis and design of symmetric primitives) and implementation security (side-channel and fault attacks). However, my interests are not limited to these topics. I am a co-designer of the authenticated encryption schemes &lt;a href=&#34;https://ascon.iaik.tugraz.at/&#34; target=&#34;_blank&#34;&gt;Ascon&lt;/a&gt;, &lt;a href=&#34;https://www.esat.kuleuven.be/cosic/elephant/&#34; target=&#34;_blank&#34;&gt;Elephant&lt;/a&gt;, and &lt;a href=&#34;https://isap.iaik.tugraz.at&#34; target=&#34;_blank&#34;&gt;ISAP&lt;/a&gt; and the stream cipher &lt;a href=&#34;https://eprint.iacr.org/2018/181&#34; target=&#34;_blank&#34;&gt;Rasta&lt;/a&gt;. Moreover, I am part of the &lt;a href=&#34;https://sphincs.org/&#34; target=&#34;_blank&#34;&gt;SPHINCS&lt;sup&gt;+&lt;/sup&gt;&lt;/a&gt; Team.&lt;/p&gt;
+      <description>&lt;p&gt;Currently, I am working for &lt;a href=&#34;https://www.lamarr.at/&#34; target=&#34;_blank&#34;&gt;Lamarr Security Research&lt;/a&gt;. Before that, I worked as a postdoctoral researcher at the Radboud University in Nijmegen and the Graz University of Technology. So far, I have done research in cryptography (analysis and design of symmetric cryptography) and implementation security (side-channel and fault attacks). However, my interests are not limited to these topics. I am a co-designer of the authenticated encryption schemes &lt;a href=&#34;https://ascon.iaik.tugraz.at/&#34; target=&#34;_blank&#34;&gt;Ascon&lt;/a&gt;, &lt;a href=&#34;https://www.esat.kuleuven.be/cosic/elephant/&#34; target=&#34;_blank&#34;&gt;Elephant&lt;/a&gt;, and &lt;a href=&#34;https://isap.iaik.tugraz.at&#34; target=&#34;_blank&#34;&gt;ISAP&lt;/a&gt; and the stream cipher &lt;a href=&#34;https://eprint.iacr.org/2018/181&#34; target=&#34;_blank&#34;&gt;Rasta&lt;/a&gt;. Moreover, I am part of the &lt;a href=&#34;https://sphincs.org/&#34; target=&#34;_blank&#34;&gt;SPHINCS&lt;sup&gt;+&lt;/sup&gt;&lt;/a&gt; Team.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>https://www.dobraunig.com/publication/</link>
       <atom:link href="https://www.dobraunig.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://www.dobraunig.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Tightness of the Suffix Keyed Sponge Bound</title>
+      <link>https://www.dobraunig.com/publication/security_suks/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/security_suks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Protecting against Statistical Ineffective Fault Attacks</title>
