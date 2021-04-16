@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lorenzo Grassi | Christoph Dobraunig</title>
-    <link>https://www.dobraunig.com/authors/lorenzo-grassi/</link>
-      <atom:link href="https://www.dobraunig.com/authors/lorenzo-grassi/index.xml" rel="self" type="application/rss+xml" />
-    <description>Lorenzo Grassi</description>
+    <title>Anna Guinet | Christoph Dobraunig</title>
+    <link>https://www.dobraunig.com/authors/anna-guinet/</link>
+      <atom:link href="https://www.dobraunig.com/authors/anna-guinet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anna Guinet</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
-      <title>Lorenzo Grassi</title>
-      <link>https://www.dobraunig.com/authors/lorenzo-grassi/</link>
+      <title>Anna Guinet</title>
+      <link>https://www.dobraunig.com/authors/anna-guinet/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://www.dobraunig.com/publication/ciminion/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/publication/ciminion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rasta: A cipher with low ANDdepth and few ANDs per bit</title>
-      <link>https://www.dobraunig.com/publication/rasta/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/publication/rasta/</guid>
       <description></description>
     </item>
     

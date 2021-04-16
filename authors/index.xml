@@ -5,7 +5,7 @@
     <link>https://www.dobraunig.com/authors/</link>
       <atom:link href="https://www.dobraunig.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Anna Guinet</title>
+      <link>https://www.dobraunig.com/authors/anna-guinet/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/authors/anna-guinet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bart Mennink</title>
       <link>https://www.dobraunig.com/authors/bart-mennink/</link>
-      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/authors/bart-mennink/</guid>
       <description></description>
     </item>
@@ -23,8 +31,24 @@
     <item>
       <title>Christoph Dobraunig</title>
       <link>https://www.dobraunig.com/authors/christoph-dobraunig/</link>
-      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/authors/christoph-dobraunig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniël Kuijsters</title>
+      <link>https://www.dobraunig.com/authors/daniel-kuijsters/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/authors/daniel-kuijsters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorenzo Grassi</title>
+      <link>https://www.dobraunig.com/authors/lorenzo-grassi/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/authors/lorenzo-grassi/</guid>
       <description></description>
     </item>
     
@@ -345,14 +369,6 @@
       <link>https://www.dobraunig.com/authors/eik-list/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/authors/eik-list/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lorenzo Grassi</title>
-      <link>https://www.dobraunig.com/authors/lorenzo-grassi/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/authors/lorenzo-grassi/</guid>
       <description></description>
     </item>
     
