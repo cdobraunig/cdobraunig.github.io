@@ -29,6 +29,38 @@
     </item>
     
     <item>
+      <title>Ascon v1.2: Lightweight Authenticated Encryption and Hashing</title>
+      <link>https://www.dobraunig.com/publication/ascon_jc/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/ascon_jc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ascon</title>
+      <link>https://www.dobraunig.com/publication/ascon_nist/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/ascon_nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elephant</title>
+      <link>https://www.dobraunig.com/publication/elephant_nist/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/elephant_nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISAP</title>
+      <link>https://www.dobraunig.com/publication/isap_nist/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/isap_nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tightness of the Suffix Keyed Sponge Bound</title>
       <link>https://www.dobraunig.com/publication/security_suks/</link>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
@@ -113,30 +145,6 @@
       <link>https://www.dobraunig.com/publication/leak_duplex/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/publication/leak_duplex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ascon</title>
-      <link>https://www.dobraunig.com/publication/ascon_nist/</link>
-      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/publication/ascon_nist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Elephant</title>
-      <link>https://www.dobraunig.com/publication/elephant_nist/</link>
-      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/publication/elephant_nist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ISAP</title>
-      <link>https://www.dobraunig.com/publication/isap_nist/</link>
-      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/publication/isap_nist/</guid>
       <description></description>
     </item>
     

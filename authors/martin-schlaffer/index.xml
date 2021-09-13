@@ -5,7 +5,7 @@
     <link>https://www.dobraunig.com/authors/martin-schlaffer/</link>
       <atom:link href="https://www.dobraunig.com/authors/martin-schlaffer/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Schläffer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
       <title>Martin Schläffer</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Ascon v1.2: Lightweight Authenticated Encryption and Hashing</title>
+      <link>https://www.dobraunig.com/publication/ascon_jc/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/ascon_jc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ascon</title>
       <link>https://www.dobraunig.com/publication/ascon_nist/</link>
-      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/publication/ascon_nist/</guid>
       <description></description>
     </item>

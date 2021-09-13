@@ -5,12 +5,20 @@
     <link>https://www.dobraunig.com/authors/robert-primas/</link>
       <atom:link href="https://www.dobraunig.com/authors/robert-primas/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert Primas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
       <title>Robert Primas</title>
       <link>https://www.dobraunig.com/authors/robert-primas/</link>
     </image>
+    
+    <item>
+      <title>ISAP</title>
+      <link>https://www.dobraunig.com/publication/isap_nist/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/isap_nist/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Protecting against Statistical Ineffective Fault Attacks</title>
@@ -33,14 +41,6 @@
       <link>https://www.dobraunig.com/publication/practicallr/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/publication/practicallr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ISAP</title>
-      <link>https://www.dobraunig.com/publication/isap_nist/</link>
-      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/publication/isap_nist/</guid>
       <description></description>
     </item>
     
