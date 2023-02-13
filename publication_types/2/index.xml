@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Christoph Dobraunig</title>
+    <link>https://www.dobraunig.com/publication_types/2/</link>
+      <atom:link href="https://www.dobraunig.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.dobraunig.com/img/icon-192.png</url>
+      <title>2</title>
+      <link>https://www.dobraunig.com/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Ascon v1.2: Lightweight Authenticated Encryption and Hashing</title>
+      <link>https://www.dobraunig.com/publication/ascon_jc/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/ascon_jc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tightness of the Suffix Keyed Sponge Bound</title>
+      <link>https://www.dobraunig.com/publication/security_suks/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/security_suks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protecting against Statistical Ineffective Fault Attacks</title>
+      <link>https://www.dobraunig.com/publication/cosifa/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/cosifa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algebraic and Higher-Order Differential Cryptanalysis of Pyjamask-96</title>
+      <link>https://www.dobraunig.com/publication/pyja/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/pyja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISAP v2.0</title>
+      <link>https://www.dobraunig.com/publication/isap_tosc/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/isap_tosc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dumbo, Jumbo, and Delirium: Parallel Authenticated Encryption for the Lightweight Circus</title>
+      <link>https://www.dobraunig.com/publication/elephant_tosc/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/elephant_tosc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Forgeries for ORANGE</title>
+      <link>https://www.dobraunig.com/publication/orange/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/orange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved (semi-free-start/near-) collision and distinguishing attacks on round-reduced RIPEMD-160</title>
+      <link>https://www.dobraunig.com/publication/ripemd_0/</link>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/ripemd_0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Framework for faster key search using related-key higher-order differential properties: applications to Agrasta</title>
+      <link>https://www.dobraunig.com/publication/agrasta_attack/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/agrasta_attack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security of the Suffix Keyed Sponge</title>
+      <link>https://www.dobraunig.com/publication/suks/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/suks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Semi-Free-Start Collision Attack Framework for Reduced RIPEMD-160</title>
+      <link>https://www.dobraunig.com/publication/ripemd_2/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/ripemd_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Correlation Attacks on Tweakable Block Ciphers with Linear Tweakey Expansion</title>
+      <link>https://www.dobraunig.com/publication/tbczero/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/tbczero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIFA: Exploiting Ineffective Fault Inductions on Symmetric Cryptography</title>
+      <link>https://www.dobraunig.com/publication/sifa/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/sifa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISAP - Towards Side-Channel Secure Authenticated Encryption</title>
+      <link>https://www.dobraunig.com/publication/isapv1/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/isapv1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ascon hardware implementations and side-channel evaluation</title>
+      <link>https://www.dobraunig.com/publication/ascon_hw/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/ascon_hw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Key-Recovery Attack on MANTIS 5</title>
+      <link>https://www.dobraunig.com/publication/mantis/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/mantis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

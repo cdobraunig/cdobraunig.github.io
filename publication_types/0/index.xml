@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Christoph Dobraunig</title>
+    <link>https://www.dobraunig.com/publication_types/0/</link>
+      <atom:link href="https://www.dobraunig.com/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.dobraunig.com/img/icon-192.png</url>
+      <title>0</title>
+      <link>https://www.dobraunig.com/publication_types/0/</link>
+    </image>
+    
+    <item>
+      <title>Ascon</title>
+      <link>https://www.dobraunig.com/publication/ascon_nist/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/ascon_nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elephant</title>
+      <link>https://www.dobraunig.com/publication/elephant_nist/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/elephant_nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISAP</title>
+      <link>https://www.dobraunig.com/publication/isap_nist/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/isap_nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Golden Mean Between Leakage and Fault Resilience and Practice</title>
+      <link>https://www.dobraunig.com/publication/practicallr/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/practicallr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPHINCS&#43;</title>
+      <link>https://www.dobraunig.com/publication/sphincs_nist/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/sphincs_nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Evaluation of SHA-224, SHA-512/224, and SHA-512/256</title>
+      <link>https://www.dobraunig.com/publication/sha2_report/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/sha2_report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ascon</title>
+      <link>https://www.dobraunig.com/publication/ascon/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/ascon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joan Daemen | Christoph Dobraunig</title>
+    <link>https://www.dobraunig.com/authors/joan-daemen/</link>
+      <atom:link href="https://www.dobraunig.com/authors/joan-daemen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joan Daemen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.dobraunig.com/img/icon-192.png</url>
+      <title>Joan Daemen</title>
+      <link>https://www.dobraunig.com/authors/joan-daemen/</link>
+    </image>
+    
+    <item>
+      <title>Protecting against Statistical Ineffective Fault Attacks</title>
+      <link>https://www.dobraunig.com/publication/cosifa/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/cosifa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victor Lomné | Christoph Dobraunig</title>
+    <link>https://www.dobraunig.com/authors/victor-lomne/</link>
+      <atom:link href="https://www.dobraunig.com/authors/victor-lomne/index.xml" rel="self" type="application/rss+xml" />
+    <description>Victor Lomné</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.dobraunig.com/img/icon-192.png</url>
+      <title>Victor Lomné</title>
+      <link>https://www.dobraunig.com/authors/victor-lomne/</link>
+    </image>
+    
+    <item>
+      <title>Statistical Fault Attacks on Nonce-Based Authenticated Encryption Schemes</title>
+      <link>https://www.dobraunig.com/publication/sfa/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/sfa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eik List | Christoph Dobraunig</title>
+    <link>https://www.dobraunig.com/authors/eik-list/</link>
+      <atom:link href="https://www.dobraunig.com/authors/eik-list/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eik List</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.dobraunig.com/img/icon-192.png</url>
+      <title>Eik List</title>
+      <link>https://www.dobraunig.com/authors/eik-list/</link>
+    </image>
+    
+    <item>
+      <title>Rasta: A cipher with low ANDdepth and few ANDs per bit</title>
+      <link>https://www.dobraunig.com/publication/rasta/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/rasta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impossible-Differential and Boomerang Cryptanalysis of Round-Reduced Kiasu-BC</title>
+      <link>https://www.dobraunig.com/publication/kiasu_2/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/kiasu_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
