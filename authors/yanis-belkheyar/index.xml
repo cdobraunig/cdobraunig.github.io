@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanis Belkheyar | Christoph Dobraunig</title>
+    <link>https://www.dobraunig.com/authors/yanis-belkheyar/</link>
+      <atom:link href="https://www.dobraunig.com/authors/yanis-belkheyar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanis Belkheyar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.dobraunig.com/img/icon-192.png</url>
+      <title>Yanis Belkheyar</title>
+      <link>https://www.dobraunig.com/authors/yanis-belkheyar/</link>
+    </image>
+    
+    <item>
+      <title>BipBip: A Low-Latency Tweakable Block Cipher with Small Dimensions</title>
+      <link>https://www.dobraunig.com/publication/bipbip/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/bipbip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

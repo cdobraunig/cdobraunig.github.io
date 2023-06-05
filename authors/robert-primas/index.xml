@@ -5,12 +5,20 @@
     <link>https://www.dobraunig.com/authors/robert-primas/</link>
       <atom:link href="https://www.dobraunig.com/authors/robert-primas/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert Primas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
       <title>Robert Primas</title>
       <link>https://www.dobraunig.com/authors/robert-primas/</link>
     </image>
+    
+    <item>
+      <title>Leakage and Tamper Resilient Permutation-Based Cryptography</title>
+      <link>https://www.dobraunig.com/publication/practicallr/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/practicallr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ISAP</title>
@@ -33,14 +41,6 @@
       <link>https://www.dobraunig.com/publication/isap_tosc/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/publication/isap_tosc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring the Golden Mean Between Leakage and Fault Resilience and Practice</title>
-      <link>https://www.dobraunig.com/publication/practicallr/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/publication/practicallr/</guid>
       <description></description>
     </item>
     

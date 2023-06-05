@@ -5,12 +5,20 @@
     <link>https://www.dobraunig.com/authors/maria-eichlseder/</link>
       <atom:link href="https://www.dobraunig.com/authors/maria-eichlseder/index.xml" rel="self" type="application/rss+xml" />
     <description>Maria Eichlseder</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
       <title>Maria Eichlseder</title>
       <link>https://www.dobraunig.com/authors/maria-eichlseder/</link>
     </image>
+    
+    <item>
+      <title>Information-Combining Differential Fault Attacks on DEFAULT</title>
+      <link>https://www.dobraunig.com/publication/default/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/default/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ascon v1.2: Lightweight Authenticated Encryption and Hashing</title>

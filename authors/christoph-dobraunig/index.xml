@@ -5,12 +5,36 @@
     <link>https://www.dobraunig.com/authors/christoph-dobraunig/</link>
       <atom:link href="https://www.dobraunig.com/authors/christoph-dobraunig/index.xml" rel="self" type="application/rss+xml" />
     <description>Christoph Dobraunig</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
       <title>Christoph Dobraunig</title>
       <link>https://www.dobraunig.com/authors/christoph-dobraunig/</link>
     </image>
+    
+    <item>
+      <title>BipBip: A Low-Latency Tweakable Block Cipher with Small Dimensions</title>
+      <link>https://www.dobraunig.com/publication/bipbip/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/bipbip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information-Combining Differential Fault Attacks on DEFAULT</title>
+      <link>https://www.dobraunig.com/publication/default/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/default/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leakage and Tamper Resilient Permutation-Based Cryptography</title>
+      <link>https://www.dobraunig.com/publication/practicallr/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/practicallr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ciminion: Symmetric Encryption Based on Toffoli-Gates over Large Finite Fields</title>
@@ -61,6 +85,15 @@
     </item>
     
     <item>
+      <title>Multi-user Security of the Elephant v2 Authenticated Encryption Mode</title>
+      <link>https://www.dobraunig.com/publication/elephant_mu/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/elephant_mu/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/&#34; target=&#34;_blank&#34;&gt;http://localhost:1313/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Tightness of the Suffix Keyed Sponge Bound</title>
       <link>https://www.dobraunig.com/publication/security_suks/</link>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
@@ -105,14 +138,6 @@
       <link>https://www.dobraunig.com/publication/orange/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/publication/orange/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring the Golden Mean Between Leakage and Fault Resilience and Practice</title>
-      <link>https://www.dobraunig.com/publication/practicallr/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/publication/practicallr/</guid>
       <description></description>
     </item>
     

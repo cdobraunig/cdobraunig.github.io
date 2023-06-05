@@ -5,12 +5,20 @@
     <link>https://www.dobraunig.com/authors/bart-mennink/</link>
       <atom:link href="https://www.dobraunig.com/authors/bart-mennink/index.xml" rel="self" type="application/rss+xml" />
     <description>Bart Mennink</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
       <title>Bart Mennink</title>
       <link>https://www.dobraunig.com/authors/bart-mennink/</link>
     </image>
+    
+    <item>
+      <title>Leakage and Tamper Resilient Permutation-Based Cryptography</title>
+      <link>https://www.dobraunig.com/publication/practicallr/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/practicallr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Leakage Resilient Value Comparison With Application to Message Authentication</title>
@@ -34,6 +42,15 @@
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/publication/isap_nist/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-user Security of the Elephant v2 Authenticated Encryption Mode</title>
+      <link>https://www.dobraunig.com/publication/elephant_mu/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/elephant_mu/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/&#34; target=&#34;_blank&#34;&gt;http://localhost:1313/&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -65,14 +82,6 @@
       <link>https://www.dobraunig.com/publication/orange/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/publication/orange/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring the Golden Mean Between Leakage and Fault Resilience and Practice</title>
-      <link>https://www.dobraunig.com/publication/practicallr/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/publication/practicallr/</guid>
       <description></description>
     </item>
     

@@ -3,33 +3,113 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.dobraunig.com/authors/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication_types/2/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/bipbip/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/christoph-dobraunig/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/joan-daemen/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication_types/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/santosh-ghosh/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/yanis-belkheyar/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.dobraunig.com/publication_types/1/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/default/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/marcel-nageler/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/maria-eichlseder/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/bart-mennink/</loc>
+    <lastmod>2022-09-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/practicallr/</loc>
+    <lastmod>2022-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/robert-primas/</loc>
+    <lastmod>2022-09-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/anna-guinet/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/bart-mennink/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/christoph-dobraunig/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -40,6 +120,7 @@
   <url>
     <loc>https://www.dobraunig.com/authors/daniel-kuijsters/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -50,21 +131,7 @@
   <url>
     <loc>https://www.dobraunig.com/authors/lorenzo-grassi/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/publication_types/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/publication/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/publication_types/2/</loc>
-    <lastmod>2021-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -75,21 +142,19 @@
   <url>
     <loc>https://www.dobraunig.com/authors/florian-mendel/</loc>
     <lastmod>2021-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/maria-eichlseder/</loc>
-    <lastmod>2021-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/martin-schlaffer/</loc>
     <lastmod>2021-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/publication_types/0/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -108,28 +173,32 @@
   </url>
   
   <url>
-    <loc>https://www.dobraunig.com/authors/robert-primas/</loc>
+    <loc>https://www.dobraunig.com/publication/elephant_mu/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/stefan-mangard/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/thomas-unterluggauer/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/tim-beyne/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/yu-long-chen/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -140,11 +209,7 @@
   <url>
     <loc>https://www.dobraunig.com/authors/hannes-gross/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/joan-daemen/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -160,11 +225,13 @@
   <url>
     <loc>https://www.dobraunig.com/authors/jan-schoone/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/yann-rotella/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -183,23 +250,21 @@
   </url>
   
   <url>
-    <loc>https://www.dobraunig.com/publication/practicallr/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.dobraunig.com/authors/binbin-cui/</loc>
     <lastmod>2020-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/fukang-liu/</loc>
     <lastmod>2020-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/gaoli-wang/</loc>
     <lastmod>2020-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -210,11 +275,13 @@
   <url>
     <loc>https://www.dobraunig.com/authors/christian-rechberger/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/farokhlagha-moazami/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -225,6 +292,7 @@
   <url>
     <loc>https://www.dobraunig.com/authors/hadi-soleimany/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -245,11 +313,13 @@
   <url>
     <loc>https://www.dobraunig.com/authors/takanori-isobe/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/zhenfu-cao/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -260,6 +330,7 @@
   <url>
     <loc>https://www.dobraunig.com/authors/markus-schofnegger/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -270,46 +341,49 @@
   <url>
     <loc>https://www.dobraunig.com/authors/andreas-hulsing/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/daniel-j.-bernstein/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/jean-philippe-aumasson/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/joost-rijneveld/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/martin-m.-lauridsen/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/panos-kampanakis/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/peter-schwabe/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/ruben-niederhagen/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/scott-fluhrer/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -318,43 +392,57 @@
   </url>
   
   <url>
+    <loc>https://www.dobraunig.com/authors/scott-fluhrer/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.dobraunig.com/authors/stefan-kolbl/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/stefan-lukas-gazdag/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/tanja-lange/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/eran-lambooij/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/gregor-leander/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/jian-guo/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/ralph-ankele/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/yosuke-todo/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -375,11 +463,13 @@
   <url>
     <loc>https://www.dobraunig.com/authors/thomas-korak/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/eik-list/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -395,6 +485,7 @@
   <url>
     <loc>https://www.dobraunig.com/authors/virginie-lallemand/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -420,21 +511,25 @@
   <url>
     <loc>https://www.dobraunig.com/authors/christoph-ehrenhofer/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/erich-wenger/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/hannes-gro%C3%9F/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/daniel-kales/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -450,6 +545,7 @@
   <url>
     <loc>https://www.dobraunig.com/authors/victor-lomne/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -480,11 +576,13 @@
   <url>
     <loc>https://www.dobraunig.com/authors/francois-koeune/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/francois-xavier-standaert/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -530,11 +628,13 @@
   <url>
     <loc>https://www.dobraunig.com/authors/andrey-bogdanov/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/elmar-tischhauser/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -555,11 +655,13 @@
   <url>
     <loc>https://www.dobraunig.com/authors/alexander-oprisnik/</loc>
     <lastmod>2012-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/christoph-wiesmeier/</loc>
     <lastmod>2012-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -570,16 +672,19 @@
   <url>
     <loc>https://www.dobraunig.com/authors/johannes-wiesmeier/</loc>
     <lastmod>2012-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/markus-hofinger/</loc>
     <lastmod>2012-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/authors/thomas-plos/</loc>
     <lastmod>2012-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -588,10 +693,12 @@
   
   <url>
     <loc>https://www.dobraunig.com/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

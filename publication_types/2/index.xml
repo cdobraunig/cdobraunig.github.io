@@ -5,12 +5,20 @@
     <link>https://www.dobraunig.com/publication_types/2/</link>
       <atom:link href="https://www.dobraunig.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
       <title>2</title>
       <link>https://www.dobraunig.com/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>BipBip: A Low-Latency Tweakable Block Cipher with Small Dimensions</title>
+      <link>https://www.dobraunig.com/publication/bipbip/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/bipbip/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ascon v1.2: Lightweight Authenticated Encryption and Hashing</title>
