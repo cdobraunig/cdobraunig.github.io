@@ -5,12 +5,20 @@
     <link>https://www.dobraunig.com/authors/christian-rechberger/</link>
       <atom:link href="https://www.dobraunig.com/authors/christian-rechberger/index.xml" rel="self" type="application/rss+xml" />
     <description>Christian Rechberger</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
       <title>Christian Rechberger</title>
       <link>https://www.dobraunig.com/authors/christian-rechberger/</link>
     </image>
+    
+    <item>
+      <title>Pasta: A Case for Hybrid Homomorphic Encryption</title>
+      <link>https://www.dobraunig.com/publication/pasta/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/pasta/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Framework for faster key search using related-key higher-order differential properties: applications to Agrasta</title>

@@ -3,20 +3,123 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.dobraunig.com/authors/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <loc>https://www.dobraunig.com/publication_types/1/</loc>
+    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/ascon_prf/</loc>
+    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/</loc>
+    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/christoph-dobraunig/</loc>
+    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/</loc>
+    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/florian-mendel/</loc>
+    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/maria-eichlseder/</loc>
+    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/martin-schlaffer/</loc>
+    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication_types/</loc>
+    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/</loc>
+    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/bart-mennink/</loc>
+    <lastmod>2024-02-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/general_duplex/</loc>
+    <lastmod>2024-02-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.dobraunig.com/publication_types/2/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.dobraunig.com/authors/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <loc>https://www.dobraunig.com/publication/elimac/</loc>
+    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/samuel-neves/</loc>
+    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/christian-rechberger/</loc>
+    <lastmod>2023-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/lorenzo-grassi/</loc>
+    <lastmod>2023-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/lukas-helminger/</loc>
+    <lastmod>2023-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/markus-schofnegger/</loc>
+    <lastmod>2023-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/publication/pasta/</loc>
+    <lastmod>2023-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dobraunig.com/authors/roman-walch/</loc>
+    <lastmod>2023-06-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -26,36 +129,19 @@
   </url>
   
   <url>
-    <loc>https://www.dobraunig.com/authors/christoph-dobraunig/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.dobraunig.com/authors/joan-daemen/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.dobraunig.com/publication_types/</loc>
+    <loc>https://www.dobraunig.com/authors/santosh-ghosh/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.dobraunig.com/publication/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/santosh-ghosh/</loc>
+    <loc>https://www.dobraunig.com/authors/shahram-rasoolzadeh/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -67,12 +153,6 @@
   </url>
   
   <url>
-    <loc>https://www.dobraunig.com/publication_types/1/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.dobraunig.com/publication/default/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -80,18 +160,6 @@
   <url>
     <loc>https://www.dobraunig.com/authors/marcel-nageler/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/maria-eichlseder/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/bart-mennink/</loc>
-    <lastmod>2022-09-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -129,26 +197,8 @@
   </url>
   
   <url>
-    <loc>https://www.dobraunig.com/authors/lorenzo-grassi/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.dobraunig.com/publication/ascon_jc/</loc>
     <lastmod>2021-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/florian-mendel/</loc>
-    <lastmod>2021-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/martin-schlaffer/</loc>
-    <lastmod>2021-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -273,12 +323,6 @@
   </url>
   
   <url>
-    <loc>https://www.dobraunig.com/authors/christian-rechberger/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.dobraunig.com/authors/farokhlagha-moazami/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -325,12 +369,6 @@
   <url>
     <loc>https://www.dobraunig.com/publication/frit/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dobraunig.com/authors/markus-schofnegger/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

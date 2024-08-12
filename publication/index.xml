@@ -5,12 +5,44 @@
     <link>https://www.dobraunig.com/publication/</link>
       <atom:link href="https://www.dobraunig.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://www.dobraunig.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Ascon MAC, PRF, and Short-Input PRF - Lightweight, Fast, and Efficient Pseudorandom Functions</title>
+      <link>https://www.dobraunig.com/publication/ascon_prf/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/ascon_prf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Initialization of the Duplex Construction</title>
+      <link>https://www.dobraunig.com/publication/general_duplex/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/general_duplex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EliMAC: Speeding Up LightMAC by around 20%</title>
+      <link>https://www.dobraunig.com/publication/elimac/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/elimac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pasta: A Case for Hybrid Homomorphic Encryption</title>
+      <link>https://www.dobraunig.com/publication/pasta/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/pasta/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BipBip: A Low-Latency Tweakable Block Cipher with Small Dimensions</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel Neves | Christoph Dobraunig</title>
+    <link>https://www.dobraunig.com/authors/samuel-neves/</link>
+      <atom:link href="https://www.dobraunig.com/authors/samuel-neves/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samuel Neves</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.dobraunig.com/img/icon-192.png</url>
+      <title>Samuel Neves</title>
+      <link>https://www.dobraunig.com/authors/samuel-neves/</link>
+    </image>
+    
+    <item>
+      <title>EliMAC: Speeding Up LightMAC by around 20%</title>
+      <link>https://www.dobraunig.com/publication/elimac/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/elimac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

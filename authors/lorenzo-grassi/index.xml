@@ -5,12 +5,20 @@
     <link>https://www.dobraunig.com/authors/lorenzo-grassi/</link>
       <atom:link href="https://www.dobraunig.com/authors/lorenzo-grassi/index.xml" rel="self" type="application/rss+xml" />
     <description>Lorenzo Grassi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
       <title>Lorenzo Grassi</title>
       <link>https://www.dobraunig.com/authors/lorenzo-grassi/</link>
     </image>
+    
+    <item>
+      <title>Pasta: A Case for Hybrid Homomorphic Encryption</title>
+      <link>https://www.dobraunig.com/publication/pasta/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/pasta/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ciminion: Symmetric Encryption Based on Toffoli-Gates over Large Finite Fields</title>

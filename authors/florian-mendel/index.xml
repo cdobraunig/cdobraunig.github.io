@@ -5,12 +5,20 @@
     <link>https://www.dobraunig.com/authors/florian-mendel/</link>
       <atom:link href="https://www.dobraunig.com/authors/florian-mendel/index.xml" rel="self" type="application/rss+xml" />
     <description>Florian Mendel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
       <title>Florian Mendel</title>
       <link>https://www.dobraunig.com/authors/florian-mendel/</link>
     </image>
+    
+    <item>
+      <title>Ascon MAC, PRF, and Short-Input PRF - Lightweight, Fast, and Efficient Pseudorandom Functions</title>
+      <link>https://www.dobraunig.com/publication/ascon_prf/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/ascon_prf/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ascon v1.2: Lightweight Authenticated Encryption and Hashing</title>
