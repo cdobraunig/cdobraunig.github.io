@@ -5,7 +5,7 @@
     <link>https://www.dobraunig.com/authors/</link>
       <atom:link href="https://www.dobraunig.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,58 @@
     </image>
     
     <item>
+      <title>Alexander Tereschenko</title>
+      <link>https://www.dobraunig.com/authors/alexander-tereschenko/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/authors/alexander-tereschenko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bart Mennink</title>
+      <link>https://www.dobraunig.com/authors/bart-mennink/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/authors/bart-mennink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Christoph Dobraunig</title>
       <link>https://www.dobraunig.com/authors/christoph-dobraunig/</link>
-      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/authors/christoph-dobraunig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krystian Matusiewicz</title>
+      <link>https://www.dobraunig.com/authors/krystian-matusiewicz/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/authors/krystian-matusiewicz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bharath Namboothiry</title>
+      <link>https://www.dobraunig.com/authors/bharath-namboothiry/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/authors/bharath-namboothiry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Durham</title>
+      <link>https://www.dobraunig.com/authors/david-durham/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/authors/david-durham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael LeMay</title>
+      <link>https://www.dobraunig.com/authors/michael-lemay/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/authors/michael-lemay/</guid>
       <description></description>
     </item>
     
@@ -41,14 +89,6 @@
       <link>https://www.dobraunig.com/authors/martin-schlaffer/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
       <guid>https://www.dobraunig.com/authors/martin-schlaffer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bart Mennink</title>
-      <link>https://www.dobraunig.com/authors/bart-mennink/</link>
-      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.dobraunig.com/authors/bart-mennink/</guid>
       <description></description>
     </item>
     

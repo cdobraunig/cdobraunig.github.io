@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael LeMay | Christoph Dobraunig</title>
+    <link>https://www.dobraunig.com/authors/michael-lemay/</link>
+      <atom:link href="https://www.dobraunig.com/authors/michael-lemay/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael LeMay</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.dobraunig.com/img/icon-192.png</url>
+      <title>Michael LeMay</title>
+      <link>https://www.dobraunig.com/authors/michael-lemay/</link>
+    </image>
+    
+    <item>
+      <title>Cryptographic Memory Tagging: Towards Stateless Integrity</title>
+      <link>https://www.dobraunig.com/publication/tagging/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/tagging/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

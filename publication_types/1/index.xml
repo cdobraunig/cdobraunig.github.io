@@ -5,12 +5,28 @@
     <link>https://www.dobraunig.com/publication_types/1/</link>
       <atom:link href="https://www.dobraunig.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hosted on [GitHub Pages](https://pages.github.com/)</copyright><lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.dobraunig.com/img/icon-192.png</url>
       <title>1</title>
       <link>https://www.dobraunig.com/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Efficient Instances of Docked Double Decker with AES, and Application to Authenticated Encryption</title>
+      <link>https://www.dobraunig.com/publication/ddd/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/ddd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptographic Memory Tagging: Towards Stateless Integrity</title>
+      <link>https://www.dobraunig.com/publication/tagging/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.dobraunig.com/publication/tagging/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ascon MAC, PRF, and Short-Input PRF - Lightweight, Fast, and Efficient Pseudorandom Functions</title>
